@@ -1,0 +1,9 @@
+	p.a{
+             text-align-last: left;color: yellow ;
+		}
+		p.b{
+			text-align-last: center;
+		}
+		p.c{
+			text-align-last: justify;
+		}
